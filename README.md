@@ -1,6 +1,6 @@
 ## 👋 Hi there,
 
-#### I’m a Brazilian software engineer currently working for a U.S.-based company.
+#### I’m a software engineer actively working on Hemi, a custom Layer 2 blockchain network. My role involves designing and implementing scalable solutions, optimizing blockchain interactions, and ensuring seamless integration with tools and protocols like ethers.js, Viem and custom precompiles.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/artur-dolzan-neto/)](https://www.linkedin.com/in/artur-dolzan-neto/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arturdolzan@gmail.com)](mailto:arturdolzan@gmail.com)
