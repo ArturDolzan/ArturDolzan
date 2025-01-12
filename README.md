@@ -1,6 +1,6 @@
 ## 👋 Hi there,
 
-#### I'm a Brazilian software engineer and currently work for a company in the USA.
+#### I’m a Brazilian software engineer currently working for a U.S.-based company.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/artur-dolzan-neto/)](https://www.linkedin.com/in/artur-dolzan-neto/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arturdolzan@gmail.com)](mailto:arturdolzan@gmail.com)
