@@ -1,6 +1,15 @@
-## 👋 Hi there,
+## 👋 Hi, I'm Artur
 
-#### I’m a software engineer actively working on Hemi, a custom Layer 2 blockchain network. My role involves designing and implementing scalable solutions, optimizing blockchain interactions, and ensuring seamless integration with tools and protocols like ethers.js, Viem and custom precompiles.
+Software Engineer at Hemi, where I build the infrastructure powering the next generation of Bitcoin-secured Layer 2 solutions.
+
+### What I do
+- Design and implement scalable blockchain systems and smart contract integrations
+- Build production-ready DeFi applications with React, TypeScript, and Web3 libraries
+- Optimize on-chain interactions and develop custom precompiles for EVM compatibility
+- Work across the full stack: from Solidity contracts to modern frontend with Next.js and Tailwind
+
+### Tech I work with daily
+TypeScript • React • Next.js • Solidity • Viem • Ethers.js • Wagmi • Bitcoin • Ethereum
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/artur-dolzan-neto/)](https://www.linkedin.com/in/artur-dolzan-neto/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arturdolzan@gmail.com)](mailto:arturdolzan@gmail.com)
