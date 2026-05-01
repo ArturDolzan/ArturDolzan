@@ -2,7 +2,7 @@
 
 Software Engineer building DeFi infrastructure. Shipping software since 2009. For the last 4+ years I've focused on DeFi — currently engineering at Hemi, a Bitcoin programmability layer. Active open source contributor.
 
-🌐 [arturdolzan.com](https://arturdolzan.com)
+🌐 [arturdolzan.com](https://arturdolzan.com) · 💼 [LinkedIn](https://www.linkedin.com/in/artur-dolzan-neto/) · ✉️ [arturdolzan@gmail.com](mailto:arturdolzan@gmail.com)
 
 ### What I do
 - Design and implement scalable blockchain systems and smart contract integrations
@@ -13,11 +13,7 @@ Software Engineer building DeFi infrastructure. Shipping software since 2009. Fo
 ### Tech I work with daily
 TypeScript • React • Next.js • Solidity • Viem • Ethers.js • Wagmi • Bitcoin • Ethereum
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/artur-dolzan-neto/)](https://www.linkedin.com/in/artur-dolzan-neto/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arturdolzan@gmail.com)](mailto:arturdolzan@gmail.com)
-
-
-### 🚀💻
+### 🚀 💻
 
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
