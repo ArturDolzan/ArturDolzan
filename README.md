@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Artur
 
-Software Engineer at Hemi, where I build the infrastructure powering the next generation of Bitcoin-secured Layer 2 solutions.
+Software Engineer building DeFi infrastructure. Shipping software since 2009. For the last 4+ years I've focused on DeFi — currently engineering at Hemi, a Bitcoin programmability layer. Active open source contributor.
 
 ### What I do
 - Design and implement scalable blockchain systems and smart contract integrations
