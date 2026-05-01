@@ -2,6 +2,8 @@
 
 Software Engineer building DeFi infrastructure. Shipping software since 2009. For the last 4+ years I've focused on DeFi — currently engineering at Hemi, a Bitcoin programmability layer. Active open source contributor.
 
+🌐 [arturdolzan.com](https://arturdolzan.com)
+
 ### What I do
 - Design and implement scalable blockchain systems and smart contract integrations
 - Build production-ready DeFi applications with React, TypeScript, and Web3 libraries
